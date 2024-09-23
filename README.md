@@ -23,7 +23,7 @@ To use the PyGAD module, here is a summary of the required steps:
 
 The next figure lists the different stages in the lifecycle of an instance of the pygad.GA class. Note that PyGAD stops when either all generations are completed or when the function passed to the on_generation parameter returns the string stop.
 
-![Life Cycle of PyGAD]([URL_TO_YOUR_IMAGE](https://github.com/SaifuliAnna/Optimization_Problem_Tasks/blob/main/life_cycle.jpg))
+![Life Cycle of PyGAD](life_cycle.jpg)
 
 ## References
 
